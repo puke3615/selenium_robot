@@ -1,0 +1,4 @@
+dist/
+selenium_robot.egg-info/
+*.pyc
+*.txt
