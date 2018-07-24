@@ -2,11 +2,11 @@ from setuptools import setup
 
 setup(
     name='selenium-robot',
-    version='0.0.3',
+    version='0.0.5',
     author='Puke',
     author_email='1129090915@qq.com',
-    description='This is a robot scription base selenium.',
-    long_description=open('README.md').read(),
+    description='This is a robot description base selenium.',
+    long_description=open('README.rst').read(),
     license='Apache',
     url='https://pypi.python.org/pypi',
     packages=['src'],
