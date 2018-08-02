@@ -2,14 +2,14 @@ from setuptools import setup
 
 setup(
     name='selenium-robot',
-    version='0.0.5',
+    version='0.0.6',
     author='Puke',
     author_email='1129090915@qq.com',
     description='This is a robot description base selenium.',
     long_description=open('README.rst').read(),
     license='Apache',
     url='https://pypi.python.org/pypi',
-    packages=['src'],
+    packages=['selenium_robot'],
     install_requires=[
         'selenium'
     ],
